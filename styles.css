@@ -1,0 +1,21 @@
+.about {
+    width: 50%;
+    margin: auto;
+    font-size: 20px;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    text-align: center;
+    padding: 10px;
+}
+
+.statsContainer {
+    width: 400px;
+    text-align: center;
+    border: 2px solid red;
+    margin-top: 20px;
+}
